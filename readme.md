@@ -27,13 +27,13 @@ Make sure you have the following installed:
 ## Installation
 
 1. **Clone the Repository**  
-   Clone this repository to your local machine:
+   Clone this repository to your local machine: git clone https://github.com/<barmanax>/corn_ear_detection.git cd corn_ear_detection
 
 2. **Create a Virtual Environment (optional but recommended)**  
 python -m venv venv source venv/bin/activate # On MacOS/Linux .\venv\Scripts\activate # On Windows
 
 3. **Required Python Libraries**  
-If `requirements.txt` is not provided, install the following packages manually:
+Install the following packages manually:
 pip install opencv-python-headless numpy matplotlib
 
 ## Folder Structure
